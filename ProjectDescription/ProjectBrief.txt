@@ -1,0 +1,13 @@
+
+
+Project description
+	This is a personal project which purely intends to test out the capabilities of svn.
+	
+Technical requirements
+
+	
+Project Budget
+	$: 0
+	
+Project Timeline and Deadlines
+	Continuous
